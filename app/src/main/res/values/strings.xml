@@ -4,4 +4,6 @@
     <string name="dame_un_segundo_numero">Dame un segundo numero</string>
     <string name="suma">Suma</string>
     <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicacion</string>
+    <string name="division">Division</string>
 </resources>
